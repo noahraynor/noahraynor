@@ -14,12 +14,12 @@ Most recently I developed [LLMonade](https://llmonade.github.io/case-study/), an
 | **Category** | **Technologies** |
 |--------------|------------------|
 | Programming Languages | Javascript, Typescript, Python, Ruby, SQL |
-| Web Development | Express, React, Node.js, Sinatra, HTML, CSS |
+| Web Development | Express, React, Vite, Sinatra, HTML, CSS |
 | Databases | PostgreSQL, MongoDB |
 | Cloud Services | AWS (CDK, EC2, Lambda, API Gateway, RDS, S3, Cloudfront, Cognito, Eventbridge) |
 | Containerization | Docker |
 | APIs and Testing | RESTful and GraphQL APIs, Jest, Vitest |
-| Other | OpenAI, Anthropic, Langchain, Arize Phoenix, pgvector, RAG, Git/Github |
+| Other | OpenAI, embeddings, Langchain, Arize Phoenix, pgvector, RAG, Git/Github |
 
 ### 📫 How to reach me ###
-[LinkedIn](https://www.linkedin.com/in/noahraynor/) or email: [harnettalex@gmail.com](mailto:noahraynor@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/noahraynor/) or email: [noahraynor@gmail.com](mailto:noahraynor@gmail.com)
