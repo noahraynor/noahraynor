@@ -2,8 +2,6 @@
 
 🚀 I'm a software engineer passionate about the transportation industry and the power of collaboration.  As a former business owner, I offer a unique blend of leadership skills, adaptability, and experience overcoming complex problems to every team I join. 💻✨
 
-<br>
-
 ### LLMonade 🍋 ###
 
 Most recently I developed [LLMonade](https://llmonade.github.io/case-study/), an open-source Al evaluation tool that helps development teams systematically improve their LLM powered applications through guided, manual error analysis.
