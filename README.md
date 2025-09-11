@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noah Raynor 👨‍💻
 
-🚀 I'm a software engineer passionate about transportation industry technology and the power of collaboration.  As a former business owner, I offer a unique blend of leadership skills, adaptability, and experience overcoming complex problems to every team I join. 💻✨
+🚀 I'm a software engineer passionate about transportation industry technology and the power of collaboration.  As a former business owner, I bring a unique blend of leadership skills, adaptability, and experience overcoming complex problems to every team I join. 💻✨
 
 ### LLMonade 🍋 ###
 
